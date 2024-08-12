@@ -1,0 +1,11 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+logging:
+  config: classpath:logback-spring-prod.xml
+datasource:
+    url: jdbc:mariadb://database-1.cboi6c8y6f1c.ap-northeast-2.rds.amazonaws.com:3306/airline_ticket?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: dlwnsdud12
+    driver-class-name: org.mariadb.jdbc.Driver

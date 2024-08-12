@@ -1,0 +1,261 @@
+2024-07-12 07:11:45.165 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 27244 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-12 07:11:45.187 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-12 07:11:55.057 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-12 07:11:55.088 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-12 07:11:55.095 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-12 07:11:55.096 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-12 07:11:55.257 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-12 07:11:55.259 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 9580 ms
+2024-07-12 07:11:57.359 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-12 07:11:57.425 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-12 07:11:57.454 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 16.323 seconds (process running for 17.253)
+2024-07-12 07:14:33.162 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 34956 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-12 07:14:33.165 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-12 07:14:34.579 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-12 07:14:34.592 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-12 07:14:34.594 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-12 07:14:34.595 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-12 07:14:34.672 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-12 07:14:34.673 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1435 ms
+2024-07-12 07:14:35.300 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-12 07:14:35.325 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-12 07:14:35.336 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 2.953 seconds (process running for 3.778)
+2024-07-20 21:46:18.023 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 11924 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-20 21:46:18.029 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-20 21:46:19.694 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-20 21:46:19.696 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-20 21:46:19.835 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 109 ms. Found 2 JPA repository interfaces.
+2024-07-20 21:46:19.838 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-20 21:46:19.838 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-20 21:46:19.955 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 116 ms. Found 8 JPA repository interfaces.
+2024-07-20 21:46:21.973 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-20 21:46:21.991 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-20 21:46:21.994 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-20 21:46:21.994 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-20 21:46:22.091 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-20 21:46:22.091 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 3947 ms
+2024-07-20 21:46:22.293 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-20 21:46:22.413 [main] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-20 21:46:22.484 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-20 21:46:23.587 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-20 21:46:25.913 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-20 21:46:25.921 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:46:25.940 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-20 21:46:25.948 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-20 21:46:26.025 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-20 21:46:26.390 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-20 21:46:26.391 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:46:27.044 [main] [34mINFO [0;39m [36mo.s.d.j.r.query.QueryEnhancerFactory[0;39m - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-20 21:46:28.725 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-20 21:46:28.782 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-20 21:46:28.799 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 11.945 seconds (process running for 14.119)
+2024-07-20 21:46:43.324 [http-nio-8095-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-20 21:46:43.325 [http-nio-8095-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+2024-07-20 21:46:43.328 [http-nio-8095-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Completed initialization in 3 ms
+2024-07-20 21:46:43.336 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-20 21:46:43.770 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 401 ms
+2024-07-20 21:46:43.774 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-20 21:53:28.956 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:53:29.010 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:53:41.419 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 28552 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-20 21:53:41.422 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-20 21:53:42.565 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-20 21:53:42.565 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-20 21:53:42.641 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 64 ms. Found 2 JPA repository interfaces.
+2024-07-20 21:53:42.642 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-20 21:53:42.642 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-20 21:53:42.700 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 57 ms. Found 8 JPA repository interfaces.
+2024-07-20 21:53:43.724 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-20 21:53:43.753 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-20 21:53:43.756 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-20 21:53:43.757 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-20 21:53:43.874 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-20 21:53:43.876 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2350 ms
+2024-07-20 21:53:44.088 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-20 21:53:44.196 [main] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-20 21:53:44.263 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-20 21:53:45.009 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-20 21:53:47.405 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-20 21:53:47.412 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:53:47.447 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-20 21:53:47.458 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-20 21:53:47.608 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-20 21:53:48.375 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-20 21:53:48.375 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-20 21:53:49.028 [main] [34mINFO [0;39m [36mo.s.d.j.r.query.QueryEnhancerFactory[0;39m - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-20 21:53:50.174 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-20 21:53:50.212 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-20 21:53:50.225 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 9.812 seconds (process running for 10.832)
+2024-07-20 21:53:59.512 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-20 21:53:59.512 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+2024-07-20 21:53:59.514 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Completed initialization in 1 ms
+2024-07-20 21:53:59.534 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-20 21:53:59.955 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 393 ms
+2024-07-20 21:53:59.957 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-20 21:54:26.213 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-20 21:54:26.275 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 61 ms
+2024-07-20 21:54:26.275 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:37:04.891 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:37:05.824 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 831 ms
+2024-07-21 16:37:05.827 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:52:46.681 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 16:52:46.737 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 16:53:08.123 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 3620 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-21 16:53:08.200 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-21 16:53:10.552 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 16:53:10.553 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 16:53:10.663 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 93 ms. Found 2 JPA repository interfaces.
+2024-07-21 16:53:10.665 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 16:53:10.666 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 16:53:10.802 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 135 ms. Found 8 JPA repository interfaces.
+2024-07-21 16:53:12.087 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-21 16:53:12.104 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-21 16:53:12.106 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-21 16:53:12.107 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-21 16:53:12.204 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-21 16:53:12.204 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 3563 ms
+2024-07-21 16:53:12.410 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 16:53:12.531 [main] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-21 16:53:12.602 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 16:53:13.765 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 16:53:15.998 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 16:53:16.004 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 16:53:16.022 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 16:53:16.028 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 16:53:16.108 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 16:53:16.339 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 16:53:16.339 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 16:53:16.816 [main] [34mINFO [0;39m [36mo.s.d.j.r.query.QueryEnhancerFactory[0;39m - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-21 16:53:18.407 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-21 16:53:18.444 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-21 16:53:18.454 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 15.222 seconds (process running for 17.419)
+2024-07-21 16:54:52.108 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 16:54:52.108 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+2024-07-21 16:54:52.109 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Completed initialization in 1 ms
+2024-07-21 16:54:52.122 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:54:52.635 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 492 ms
+2024-07-21 16:54:52.636 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:55:03.384 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:55:03.390 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 5 ms
+2024-07-21 16:55:03.390 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:55:30.623 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:55:30.625 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 1 ms
+2024-07-21 16:55:30.625 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:55:31.556 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:55:31.558 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 2 ms
+2024-07-21 16:55:31.558 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 16:55:32.644 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 16:55:32.646 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 1 ms
+2024-07-21 16:55:32.646 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:08:38.724 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:08:38.852 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 67 ms
+2024-07-21 17:08:38.856 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:09:01.583 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 17:09:01.617 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 17:09:13.858 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 37016 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-21 17:09:13.861 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-21 17:09:14.701 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 17:09:14.701 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 17:09:14.773 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 59 ms. Found 2 JPA repository interfaces.
+2024-07-21 17:09:14.774 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 17:09:14.776 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 17:09:14.840 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 64 ms. Found 8 JPA repository interfaces.
+2024-07-21 17:09:15.854 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-21 17:09:15.870 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-21 17:09:15.872 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-21 17:09:15.872 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-21 17:09:15.953 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-21 17:09:15.954 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2022 ms
+2024-07-21 17:09:16.129 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 17:09:16.220 [main] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-21 17:09:16.269 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 17:09:16.825 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 17:09:18.466 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 17:09:18.470 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 17:09:18.484 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 17:09:18.491 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 17:09:18.548 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 17:09:18.759 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 17:09:18.759 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 17:09:19.154 [main] [34mINFO [0;39m [36mo.s.d.j.r.query.QueryEnhancerFactory[0;39m - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-21 17:09:20.265 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-21 17:09:20.293 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-21 17:09:20.304 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 7.364 seconds (process running for 8.391)
+2024-07-21 17:11:52.156 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-21 17:11:52.157 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet'
+2024-07-21 17:11:52.161 [http-nio-8095-exec-1] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - Completed initialization in 4 ms
+2024-07-21 17:11:52.178 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:11:52.627 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 419 ms
+2024-07-21 17:11:52.634 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:12:18.076 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:12:18.080 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 3 ms
+2024-07-21 17:12:18.081 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:12:26.209 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:12:26.210 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 1 ms
+2024-07-21 17:12:26.210 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:12:40.920 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:12:40.921 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 0 ms
+2024-07-21 17:12:40.922 [http-nio-8095-exec-5] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:12:45.145 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:12:45.148 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 2 ms
+2024-07-21 17:12:45.148 [http-nio-8095-exec-6] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:13:06.327 [http-nio-8095-exec-7] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items/8요청이 들어왔습니다.
+2024-07-21 17:13:06.576 [http-nio-8095-exec-7] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - DELETE /api/items/8 executed in 248 ms
+2024-07-21 17:13:06.577 [http-nio-8095-exec-7] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items/8가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:13:18.479 [http-nio-8095-exec-8] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items요청이 들어왔습니다.
+2024-07-21 17:13:18.490 [http-nio-8095-exec-8] [31mWARN [0;39m [36mo.s.w.s.m.s.DefaultHandlerExceptionResolver[0;39m - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' is not supported]
+2024-07-21 17:13:18.490 [http-nio-8095-exec-8] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items가 상태 405 로 응답이 나갑니다.
+2024-07-21 17:13:18.539 [http-nio-8095-exec-8] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - DELETE /error executed in 30 ms
+2024-07-21 17:13:22.627 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items요청이 들어왔습니다.
+2024-07-21 17:13:22.628 [http-nio-8095-exec-9] [31mWARN [0;39m [36mo.s.w.s.m.s.DefaultHandlerExceptionResolver[0;39m - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' is not supported]
+2024-07-21 17:13:22.628 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - DELETE/api/items가 상태 405 로 응답이 나갑니다.
+2024-07-21 17:13:22.630 [http-nio-8095-exec-9] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - DELETE /error executed in 2 ms
+2024-07-21 17:13:26.031 [http-nio-8095-exec-10] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:13:26.087 [http-nio-8095-exec-10] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 56 ms
+2024-07-21 17:13:26.088 [http-nio-8095-exec-10] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:13:30.323 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:13:30.325 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 2 ms
+2024-07-21 17:13:30.325 [http-nio-8095-exec-2] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:14:07.765 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:14:07.771 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 2 ms
+2024-07-21 17:14:07.772 [http-nio-8095-exec-1] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:14:20.112 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:14:20.114 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 1 ms
+2024-07-21 17:14:20.114 [http-nio-8095-exec-3] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:15:13.111 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items요청이 들어왔습니다.
+2024-07-21 17:15:13.113 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.w.i.RequestTimeLoggingInterceptor[0;39m - GET /api/items executed in 1 ms
+2024-07-21 17:15:13.113 [http-nio-8095-exec-4] [34mINFO [0;39m [36mc.g.s.web.filters.LoggingFilter[0;39m - GET/api/items가 상태 200 로 응답이 나갑니다.
+2024-07-21 17:15:44.281 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 17:15:44.287 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 21:28:01.716 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Starting SuperCodingApplication using Java 17.0.11 with PID 33004 (C:\SuperCoding주특기\super-coding\build\classes\java\main started by wnsdu in C:\SuperCoding주특기\super-coding)
+2024-07-21 21:28:01.725 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - The following 1 profile is active: "dev"
+2024-07-21 21:28:02.647 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 21:28:02.647 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 21:28:02.719 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 60 ms. Found 2 JPA repository interfaces.
+2024-07-21 21:28:02.721 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-21 21:28:02.721 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-21 21:28:02.784 [main] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 63 ms. Found 9 JPA repository interfaces.
+2024-07-21 21:28:03.991 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port 8095 (http)
+2024-07-21 21:28:04.006 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8095"]
+2024-07-21 21:28:04.008 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+2024-07-21 21:28:04.008 [main] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-21 21:28:04.095 [main] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+2024-07-21 21:28:04.096 [main] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2278 ms
+2024-07-21 21:28:04.384 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 21:28:04.522 [main] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-21 21:28:04.583 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 21:28:05.178 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 21:28:07.027 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 21:28:07.032 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 21:28:07.059 [main] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-21 21:28:07.066 [main] [34mINFO [0;39m [36mo.h.c.i.RegionFactoryInitiator[0;39m - HHH000026: Second-level cache disabled
+2024-07-21 21:28:07.146 [main] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-21 21:28:07.376 [main] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-21 21:28:07.377 [main] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 21:28:07.674 [main] [34mINFO [0;39m [36mo.s.d.j.r.query.QueryEnhancerFactory[0;39m - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-21 21:28:09.933 [main] [34mINFO [0;39m [36mo.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer[0;39m - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailService
+2024-07-21 21:28:10.512 [main] [34mINFO [0;39m [36mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8095"]
+2024-07-21 21:28:10.543 [main] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port 8095 (http) with context path '/'
+2024-07-21 21:28:10.557 [main] [34mINFO [0;39m [36mc.g.s.SuperCodingApplication[0;39m - Started SuperCodingApplication in 9.598 seconds (process running for 10.382)
+2024-07-21 21:29:25.849 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-21 21:29:25.850 [SpringApplicationShutdownHook] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default'

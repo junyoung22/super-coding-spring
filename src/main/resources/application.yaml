@@ -1,0 +1,15 @@
+server:
+  port: 8090
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+datasource:
+  username: ${DATABASE_USERNAME}
+  password: ${DATABASE_PASSWORD}
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/chapter97?useUnicode=true&characterEncoding=UTF-8
+
+jwt:
+  secret-key-source: ${JWT_SECRET_KEY}
